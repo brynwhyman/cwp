@@ -13,7 +13,7 @@
 
 ## Installation
 
-Install using Composer:
+Install using [Composer](composer.org):
 
 ```
 composer require cwp/cwp ^2.0
